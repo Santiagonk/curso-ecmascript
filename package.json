@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "Santiago Salgado <jssalgadog@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Santiagonk/curso-ecmascript/issues"
   },
