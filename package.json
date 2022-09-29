@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Santiagonk/curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/Santiagonk/curso-ecmascript#readme"
+  "homepage": "https://github.com/Santiagonk/curso-ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
